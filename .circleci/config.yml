@@ -1,0 +1,26 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/size-of-js
+    docker:
+      - image: circleci/node:12
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+      - run:
+          name: "Install"
+          command: yarn
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: "Sizing"
+          command: du -sh node_modules >> size.txt
+      - add_ssh_keys:
+          fingerprints:
+            - "b7:35:a6:4e:9b:0d:6d:d4:78:1e:9a:97:2a:66:6b:be"
+      - run:
+          name: "Git commit + push"
+          command: ./push.sh
