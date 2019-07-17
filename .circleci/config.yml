@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/size-of-npm
+    working_directory: ~/size-of-npm/size
     docker:
       - image: circleci/node:12
     steps:
