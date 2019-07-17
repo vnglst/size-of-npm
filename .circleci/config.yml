@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/size-of-js
+    working_directory: ~/size-of-npm
     docker:
       - image: circleci/node:12
     steps:
@@ -17,7 +17,7 @@ jobs:
             - ./node_modules
       - run:
           name: "Sizing"
-          command: du -sh node_modules >> size.txt
+          command: ./size.sh
       - add_ssh_keys:
           fingerprints:
             - "f4:d1:e9:19:33:98:33:e1:c5:47:5d:e7:21:e6:16:c3"
