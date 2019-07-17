@@ -18,6 +18,9 @@ jobs:
       - run:
           name: "Sizing"
           command: ./size.sh
+      - run:
+          name: "JSON conversion"
+          command: node tojson.js
       - add_ssh_keys:
           fingerprints:
             - "f4:d1:e9:19:33:98:33:e1:c5:47:5d:e7:21:e6:16:c3"
