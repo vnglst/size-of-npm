@@ -7,20 +7,23 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: dependency-cache-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+          key: dependency-cache-{{ checksum "./size/package.json" }}-{{ checksum "./size/yarn.lock" }}
       - run:
           name: "Install"
-          command: yarn
+          command: cd size; yarn
       - save_cache:
-          key: dependency-cache-{{ checksum "package.json" }}-{{ checksum "yarn.lock" }}
+          key: dependency-cache-{{ checksum "./size/package.json" }}-{{ checksum "./size/yarn.lock" }}
           paths:
-            - ./node_modules
+            - .size/node_modules
       - run:
           name: "Sizing"
-          command: ./size.sh
+          command: cd size; ./size.sh
+      - run:
+          name: "JSON conversion"
+          command: cd size; node tojson.js
       - add_ssh_keys:
           fingerprints:
             - "f4:d1:e9:19:33:98:33:e1:c5:47:5d:e7:21:e6:16:c3"
       - run:
           name: "Git commit + push"
-          command: ./push.sh
+          command: cd size; ./push.sh
