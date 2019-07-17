@@ -20,7 +20,7 @@ jobs:
           command: du -sh node_modules >> size.txt
       - add_ssh_keys:
           fingerprints:
-            - "b7:35:a6:4e:9b:0d:6d:d4:78:1e:9a:97:2a:66:6b:be"
+            - "71:ce:85:58:17:f5:35:5f:ae:54:11:40:67:fe:98:fe"
       - run:
           name: "Git commit + push"
           command: ./push.sh
