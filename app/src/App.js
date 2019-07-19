@@ -2,6 +2,7 @@ import React from "react"
 import "./App.css"
 import { AreaChart } from "react-chartkick"
 import "chart.js"
+import image from "./node_modules_size.jpg"
 import size from "./size.json"
 
 function App() {
@@ -19,6 +20,17 @@ function App() {
           data={size}
         />
       </div>
+      <p>Inspired by following meme</p>
+      <img
+        src={image}
+        alt="heaviest object in de universe, sun, neutron star, black hole, node_modules"
+      />
+      <p>
+        Currently the folder containing Xcode is larger 13 GB. To get the .NET
+        application running at work I had to install over 20 GB over
+        applications and dependencies. So, relativity speaking, JavaScript is
+        still ok. But let's not go that road as well!
+      </p>
     </>
   )
 }
