@@ -26,7 +26,7 @@ function App() {
         alt="heaviest object in de universe, sun, neutron star, black hole, node_modules"
       />
       <p>
-        On my Macbook Pro the folder containing Xcode is larger 13 GB. To get the .NET
+        On my Macbook Pro the folder containing Xcode is larger than 13 GB. And to get the .NET
         application running at work I had to install over 20 GB of
         applications and dependencies. So, relativity speaking, JavaScript is
         still ok. But let's not go that road as well.
