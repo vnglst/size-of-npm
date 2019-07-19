@@ -9,15 +9,9 @@ jobs:
       - image: circleci/node:12
     steps:
       - checkout
-      - restore_cache:
-          key: dependency-cache-{{ checksum "./size/package.json" }}-{{ checksum "./size/yarn.lock" }}
       - run:
           name: "Install"
           command: cd size; yarn
-      - save_cache:
-          key: dependency-cache-{{ checksum "./size/package.json" }}-{{ checksum "./size/yarn.lock" }}
-          paths:
-            - .size/node_modules
       - run:
           name: "Sizing"
           command: cd size; ./size.sh
