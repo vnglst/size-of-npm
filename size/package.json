@@ -103,6 +103,6 @@
     "yargs": "13.3.0",
     "yeoman-generator": "4.0.1",
     "yosay": "2.0.2",
-    "zone.js": "0.9.1"
+    "zone.js": "0.10.0"
   }
 }
