@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "chart.js": "2.8.0",
-    "react": "16.8.6",
+    "react": "16.9.0",
     "react-chartkick": "0.3.2",
-    "react-dom": "16.8.6",
+    "react-dom": "16.9.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
