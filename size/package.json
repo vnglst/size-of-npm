@@ -36,7 +36,7 @@
     "core-js": "3.2.1",
     "css-loader": "3.2.0",
     "debug": "4.1.1",
-    "dotenv": "8.0.0",
+    "dotenv": "8.1.0",
     "ejs": "2.6.2",
     "ember-cli-babel": "7.10.0",
     "eslint": "6.1.0",
