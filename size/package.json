@@ -100,7 +100,7 @@
     "winston": "3.2.1",
     "ws": "7.1.2",
     "xml2js": "0.4.19",
-    "yargs": "13.3.0",
+    "yargs": "14.0.0",
     "yeoman-generator": "4.0.1",
     "yosay": "2.0.2",
     "zone.js": "0.10.2"
