@@ -59,7 +59,7 @@
     "lodash": "4.17.15",
     "minimist": "1.2.0",
     "mkdirp": "0.5.1",
-    "mocha": "6.2.1",
+    "mocha": "6.2.2",
     "moment": "2.24.0",
     "mongodb": "3.3.3",
     "mongoose": "5.7.5",
