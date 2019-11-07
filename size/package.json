@@ -32,7 +32,7 @@
     "cheerio": "1.0.0-rc.3",
     "classnames": "2.2.6",
     "colors": "1.4.0",
-    "commander": "3.0.2",
+    "commander": "4.0.0",
     "core-js": "3.4.0",
     "css-loader": "3.2.0",
     "debug": "4.1.1",
