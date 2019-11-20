@@ -62,7 +62,7 @@
     "mocha": "6.2.2",
     "moment": "2.24.0",
     "mongodb": "3.3.4",
-    "mongoose": "5.7.11",
+    "mongoose": "5.7.12",
     "morgan": "1.9.1",
     "node-fetch": "2.6.0",
     "node-sass": "4.13.0",
