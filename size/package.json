@@ -37,7 +37,7 @@
     "css-loader": "3.2.0",
     "debug": "4.1.1",
     "dotenv": "8.2.0",
-    "ejs": "2.7.4",
+    "ejs": "3.0.1",
     "ember-cli-babel": "7.13.0",
     "eslint": "6.7.0",
     "eslint-plugin-import": "2.18.2",
