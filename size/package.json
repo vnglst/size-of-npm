@@ -41,7 +41,7 @@
     "ember-cli-babel": "7.13.0",
     "eslint": "6.7.1",
     "eslint-plugin-import": "2.18.2",
-    "eslint-plugin-react": "7.16.0",
+    "eslint-plugin-react": "7.17.0",
     "express": "4.17.1",
     "file-loader": "5.0.2",
     "fs-extra": "8.1.0",
