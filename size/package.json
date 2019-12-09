@@ -33,7 +33,7 @@
     "classnames": "2.2.6",
     "colors": "1.4.0",
     "commander": "4.0.1",
-    "core-js": "3.4.7",
+    "core-js": "3.4.8",
     "css-loader": "3.2.1",
     "debug": "4.1.1",
     "dotenv": "8.2.0",
