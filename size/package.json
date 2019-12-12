@@ -38,7 +38,7 @@
     "debug": "4.1.1",
     "dotenv": "8.2.0",
     "ejs": "3.0.1",
-    "ember-cli-babel": "7.13.0",
+    "ember-cli-babel": "7.13.2",
     "eslint": "6.7.2",
     "eslint-plugin-import": "2.19.1",
     "eslint-plugin-react": "7.17.0",
