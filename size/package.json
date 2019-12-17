@@ -82,7 +82,7 @@
     "request-promise": "4.2.5",
     "rimraf": "3.0.0",
     "rxjs": "6.5.3",
-    "semver": "7.0.0",
+    "semver": "7.1.0",
     "shelljs": "0.8.3",
     "socket.io": "2.3.0",
     "style-loader": "1.0.1",
