@@ -14,7 +14,7 @@
     "@angular/router": "8.2.14",
     "@babel/core": "7.7.5",
     "@babel/runtime": "7.7.6",
-    "@types/node": "12.12.20",
+    "@types/node": "12.12.21",
     "async": "3.1.0",
     "autoprefixer": "9.7.3",
     "aws-sdk": "2.592.0",
