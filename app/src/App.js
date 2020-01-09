@@ -31,6 +31,7 @@ function App() {
         applications and dependencies. So, relativity speaking, JavaScript is
         still ok.
       </p>
+      <a href="https://github.com/vnglst/size-of-npm/">Source code</a>
     </>
   )
 }
