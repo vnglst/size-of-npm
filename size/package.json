@@ -93,7 +93,7 @@
     "typescript": "3.7.4",
     "underscore": "1.9.2",
     "url-loader": "3.0.0",
-    "uuid": "3.3.3",
+    "uuid": "3.4.0",
     "vue": "2.6.11",
     "webpack": "4.41.5",
     "webpack-dev-server": "3.10.1",
