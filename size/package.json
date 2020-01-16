@@ -65,7 +65,7 @@
     "mongoose": "5.8.7",
     "morgan": "1.9.1",
     "node-fetch": "2.6.0",
-    "node-sass": "4.13.0",
+    "node-sass": "4.13.1",
     "object-assign": "4.1.1",
     "ora": "4.0.3",
     "path": "0.12.7",
