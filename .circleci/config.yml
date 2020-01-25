@@ -1,9 +1,6 @@
 version: 2
 jobs:
   build:
-    branches:
-      only:
-        - master
     working_directory: ~/size-of-npm
     docker:
       - image: circleci/node:12
@@ -11,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: "Install"
-          command: cd size; yarn
+          command: cd size; npx npm-check-updates -u; yarn
       - run:
           name: "Sizing"
           command: cd size; ./size.sh
@@ -24,3 +21,19 @@ jobs:
       - run:
           name: "Git commit + push"
           command: cd size; ./push.sh
+
+workflows:
+  version: 2
+  commit-workflow:
+    jobs:
+      - build
+  scheduled-workflow:
+    triggers:
+      - schedule:
+          cron: "30 20 * * *" # every day at 20:30
+          filters:
+            branches:
+              only: master
+
+    jobs:
+      - build
