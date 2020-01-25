@@ -4,8 +4,6 @@ jobs:
     working_directory: ~/size-of-npm
     docker:
       - image: circleci/node:12
-        environment:
-          TZ: "Europe/Amsterdam"
     steps:
       - checkout
       - run:
@@ -32,7 +30,7 @@ workflows:
   scheduled-workflow:
     triggers:
       - schedule:
-          cron: "38 20 * * *" # every day at 20:38
+          cron: "00 20 * * *" # every day at 20:00 UTC
           filters:
             branches:
               only: master
