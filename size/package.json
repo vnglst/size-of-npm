@@ -62,7 +62,7 @@
     "mocha": "7.0.1",
     "moment": "2.24.0",
     "mongodb": "3.5.2",
-    "mongoose": "5.8.9",
+    "mongoose": "5.8.10",
     "morgan": "1.9.1",
     "node-fetch": "2.6.0",
     "node-sass": "4.13.1",
@@ -101,7 +101,7 @@
     "ws": "7.2.1",
     "xml2js": "0.4.23",
     "yargs": "15.1.0",
-    "yeoman-generator": "4.4.0",
+    "yeoman-generator": "4.5.0",
     "yosay": "2.0.2",
     "zone.js": "0.10.2"
   }
