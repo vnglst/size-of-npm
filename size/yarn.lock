@@ -1842,10 +1842,10 @@ autoprefixer@9.7.4:
     postcss "^7.0.26"
     postcss-value-parser "^4.0.2"
 
-aws-sdk@2.616.0:
-  version "2.616.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.616.0.tgz#c8772f2cde6e250ce126747e6f995aa969f0632a"
-  integrity sha512-jvmUn5WgL7EQz3e40tDpmCQA2RlchMZkxp/yVOYv4eKVrW5Mxz4QVnPqIWXutK6Ml3C3/DBMR0uIQybztvSrGA==
+aws-sdk@2.618.0:
+  version "2.618.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.618.0.tgz#628d4d3bdd5024ce0701ff74713e5be0a2ffd803"
+  integrity sha512-GlwR9Eeolhm/D6NFuJosyatsdDeIeV68VRkACwt2v81seFGT7QAtpcRN72ZzVxLbeXSTMRgb6axJK17CS5whKw==
   dependencies:
     buffer "4.9.1"
     events "1.1.1"
@@ -2056,10 +2056,10 @@ babel-plugin-dynamic-import-node@^2.3.0:
   dependencies:
     object.assign "^4.1.0"
 
-babel-plugin-ember-data-packages-polyfill@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/babel-plugin-ember-data-packages-polyfill/-/babel-plugin-ember-data-packages-polyfill-0.1.1.tgz#428217228bedb95215bcaac6da83f59488b40edd"
-  integrity sha512-WQlevWS8RNNVCm4SNI6PogUMhH4Eu2ectRd/SVcKVnLnzaOHJjN9W1eaoQ9dwBidDgHhtXUbvkBSdLExaW+MYA==
+babel-plugin-ember-data-packages-polyfill@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-ember-data-packages-polyfill/-/babel-plugin-ember-data-packages-polyfill-0.1.2.tgz#21154c095ddc703722b1fb8bb06c126c0b6d77dc"
+  integrity sha512-kTHnOwoOXfPXi00Z8yAgyD64+jdSXk3pknnS7NlqnCKAU6YDkXZ4Y7irl66kaZjZn0FBBt0P4YOZFZk85jYOww==
   dependencies:
     "@ember-data/rfc395-data" "^0.0.4"
 
@@ -4170,10 +4170,10 @@ ember-cli-babel-plugin-helpers@^1.1.0:
   resolved "https://registry.yarnpkg.com/ember-cli-babel-plugin-helpers/-/ember-cli-babel-plugin-helpers-1.1.0.tgz#de3baedd093163b6c2461f95964888c1676325ac"
   integrity sha512-Zr4my8Xn+CzO0gIuFNXji0eTRml5AxZUTDQz/wsNJ5AJAtyFWCY4QtKdoELNNbiCVGt1lq5yLiwTm4scGKu6xA==
 
-ember-cli-babel@7.17.2:
-  version "7.17.2"
-  resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-7.17.2.tgz#2c7717c6864425be3cd11913c722115fbf1448d2"
-  integrity sha512-64jRwtRVtEp4ghhew/sHeMsPyUOg3t1TB2dary5mCbKkRasb3L7FwF7xnuzPihaz+AW/v2LqYLALXGCml5XNLA==
+ember-cli-babel@7.18.0:
+  version "7.18.0"
+  resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-7.18.0.tgz#e979b73eee00cd93f63452c6170d045e8832f29c"
+  integrity sha512-OLPfYD8wSfCrmGHcUf8zEfySSvbAL+5Qp2RWLycJIMaBZhg+SncKj5kVkL3cPJR5n2hVHPdfmKTQIYjOYl6FnQ==
   dependencies:
     "@babel/core" "^7.8.4"
     "@babel/helper-compilation-targets" "^7.8.4"
@@ -4187,7 +4187,7 @@ ember-cli-babel@7.17.2:
     "@babel/runtime" "^7.8.4"
     amd-name-resolver "^1.2.1"
     babel-plugin-debug-macros "^0.3.0"
-    babel-plugin-ember-data-packages-polyfill "^0.1.1"
+    babel-plugin-ember-data-packages-polyfill "^0.1.2"
     babel-plugin-ember-modules-api-polyfill "^2.12.0"
     babel-plugin-module-resolver "^3.1.1"
     broccoli-babel-transpiler "^7.4.0"
@@ -7571,10 +7571,10 @@ mongoose-legacy-pluralize@1.0.2:
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
   integrity sha512-Yo/7qQU4/EyIS8YDFSeenIvXxZN+ld7YdV9LqFVQJzTLye8unujAWPZ4NWKfFA+RNjh+wvTWKY9Z3E5XM6ZZiQ==
 
-mongoose@5.8.11:
-  version "5.8.11"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.8.11.tgz#4b3813e55d33928dcc4a2c5cf4b8a76041192861"
-  integrity sha512-Yz0leNEJsAtNtMTxTDEadacLWt58gaVeBVL3c1Z3vaBoc159aJqlf+T8jaL9mAdBxKndF5YWhh6Q719xac7cjA==
+mongoose@5.8.13:
+  version "5.8.13"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.8.13.tgz#c4a7032940800b5c893e52ca3d0009ec7d13a296"
+  integrity sha512-YUBykYbx8/PMR1N8xAxl81PU+JQuMx5pVp7eHelifUMazshQqIwvToUtIxlinEG3NYbbS9FTSzYBrbBLDfrADQ==
   dependencies:
     bson "~1.1.1"
     kareem "2.3.1"
