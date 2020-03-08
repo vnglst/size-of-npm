@@ -98,9 +98,9 @@
     "webpack": "4.42.0",
     "webpack-dev-server": "3.10.3",
     "winston": "3.2.1",
-    "ws": "7.2.1",
+    "ws": "7.2.2",
     "xml2js": "0.4.23",
-    "yargs": "15.1.0",
+    "yargs": "15.3.0",
     "yeoman-generator": "4.6.0",
     "yosay": "2.0.2",
     "zone.js": "0.10.2"
