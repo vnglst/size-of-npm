@@ -1950,10 +1950,10 @@ autoprefixer@9.7.4:
     postcss "^7.0.26"
     postcss-value-parser "^4.0.2"
 
-aws-sdk@2.635.0:
-  version "2.635.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.635.0.tgz#a440e465ad44e5a982680acd3bf0747eef9f7818"
-  integrity sha512-NlKqMB4HqMqSutY6YmPzQVa+mMhqo0655hYYl8G2zkUvrYy+YxDitvwDEUkSsNKVFkEvmHtZggFCgVYIUu/sXg==
+aws-sdk@2.636.0:
+  version "2.636.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.636.0.tgz#247124540b5b88a217aa6c282ce662b2f539721f"
+  integrity sha512-Zd/jed8qSNCm4pT2+8BuFfveouZrqUqmsOdhzpi3ZB3GYqV5eD+dmsl8OY+qvMgIJIFCB34a1SMucsC4zdBokg==
   dependencies:
     buffer "4.9.1"
     events "1.1.1"
@@ -7689,10 +7689,10 @@ mongoose-legacy-pluralize@1.0.2:
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
   integrity sha512-Yo/7qQU4/EyIS8YDFSeenIvXxZN+ld7YdV9LqFVQJzTLye8unujAWPZ4NWKfFA+RNjh+wvTWKY9Z3E5XM6ZZiQ==
 
-mongoose@5.9.3:
-  version "5.9.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.9.3.tgz#d40842301fa244ddf11efa79b78e710362d2fedb"
-  integrity sha512-wgr7lpneH8VZ2limSWhqzOenlZVobPvIUvrjUhw8/afo2GzxjtJ/icAhbXV+itZcL7sFtfLSeSm8iLdMxzWqfw==
+mongoose@5.9.4:
+  version "5.9.4"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.9.4.tgz#e80a58fdb066b815b1e87c2daf389f9fbb516f49"
+  integrity sha512-aUw4hzvJX9UJVN79JcElCwu/YsW1Sl/IDjErwiIX89xz77kmMjQjCmMsXGE1okUEcJGzGnXPqYl9BggXw8Nlvg==
   dependencies:
     bson "~1.1.1"
     kareem "2.3.1"
@@ -11721,10 +11721,10 @@ write@1.0.3:
   dependencies:
     mkdirp "^0.5.1"
 
-ws@7.2.2:
-  version "7.2.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.2.2.tgz#36df62f68f0d1a6ec66d3f880a02476f3a81f24f"
-  integrity sha512-2qj/tYkDPDSVf7JiHanwEBwkhxi7DchFewIsSnR33MQtG3O/BPAJjqs4g6XEuayuRqIExSQMHZlmyDLbuSrXYw==
+ws@7.2.3:
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.2.3.tgz#a5411e1fb04d5ed0efee76d26d5c46d830c39b46"
+  integrity sha512-HTDl9G9hbkNDk98naoR/cHDws7+EyYMOdL1BmjsZXRUjf7d+MficC4B7HLUPlSiho0vg+CWKrGIt/VJBd1xunQ==
 
 ws@^6.2.1:
   version "6.2.1"
@@ -11946,10 +11946,10 @@ yeoman-environment@^2.3.4:
     text-table "^0.2.0"
     untildify "^3.0.3"
 
-yeoman-generator@4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/yeoman-generator/-/yeoman-generator-4.6.0.tgz#dce30db1b30d25b03a7e61fd16b43d3149f3d84a"
-  integrity sha512-Hq65rLqMNCS0h0n1yakSZjHsEZHm0ZpOM02Nja6O03s2k5WHvAhGOx7uxs93vrJv62zFrJtD9e9mVhgoVbi7CQ==
+yeoman-generator@4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/yeoman-generator/-/yeoman-generator-4.7.0.tgz#6ca51a1d6b09f2cb859406a9c9be7fb66071208f"
+  integrity sha512-feJdiC7CeRfKlB0mNqX9r3Hkh2TE6NHI3uSlmy7JRup2STOdUM5MMzf/IXAvi+vvAsxTRHDY+6xDhl2D2Em/sQ==
   dependencies:
     async "^2.6.2"
     chalk "^2.4.2"
