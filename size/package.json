@@ -17,7 +17,7 @@
     "@types/node": "13.9.1",
     "async": "3.2.0",
     "autoprefixer": "9.7.4",
-    "aws-sdk": "2.640.0",
+    "aws-sdk": "2.641.0",
     "axios": "0.19.2",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
@@ -43,7 +43,7 @@
     "eslint-plugin-import": "2.20.1",
     "eslint-plugin-react": "7.19.0",
     "express": "4.17.1",
-    "file-loader": "5.1.0",
+    "file-loader": "6.0.0",
     "fs-extra": "8.1.0",
     "glob": "7.1.6",
     "gulp": "4.0.2",
@@ -62,7 +62,7 @@
     "mocha": "7.1.0",
     "moment": "2.24.0",
     "mongodb": "3.5.5",
-    "mongoose": "5.9.4",
+    "mongoose": "5.9.5",
     "morgan": "1.9.1",
     "node-fetch": "2.6.0",
     "node-sass": "4.13.1",
@@ -92,7 +92,7 @@
     "tslib": "1.11.1",
     "typescript": "3.8.3",
     "underscore": "1.9.2",
-    "url-loader": "3.0.0",
+    "url-loader": "4.0.0",
     "uuid": "7.0.2",
     "vue": "2.6.11",
     "webpack": "4.42.0",
@@ -103,6 +103,6 @@
     "yargs": "15.3.1",
     "yeoman-generator": "4.7.2",
     "yosay": "2.0.2",
-    "zone.js": "0.10.2"
+    "zone.js": "0.10.3"
   }
 }
