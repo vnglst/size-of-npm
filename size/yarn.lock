@@ -1319,10 +1319,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.2.tgz#a5ccec6abb6060d5f20d256fb03ed743e9774999"
   integrity sha512-gojym4tX0FWeV2gsW4Xmzo5wxGjXGm550oVUII7f7G5o4BV6c7DBdiG1RRQd+y1bvqRyYtPfMK85UM95vsapqQ==
 
-"@types/node@13.9.3":
-  version "13.9.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.9.3.tgz#6356df2647de9eac569f9a52eda3480fa9e70b4d"
-  integrity sha512-01s+ac4qerwd6RHD+mVbOEsraDHSgUaefQlEdBbUolnQFjKwCr7luvAlEwW1RFojh67u0z4OUTjPn9LEl4zIkA==
+"@types/node@13.9.5":
+  version "13.9.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.9.5.tgz#59738bf30b31aea1faa2df7f4a5f55613750cf00"
+  integrity sha512-hkzMMD3xu6BrJpGVLeQ3htQQNAcOrJjX7WFmtK8zWQpz2UJf13LCFF2ALA7c9OVdvc2vQJeDdjfR35M0sBCxvw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -2017,10 +2017,10 @@ autoprefixer@9.7.5:
     postcss "^7.0.27"
     postcss-value-parser "^4.0.3"
 
-aws-sdk@2.647.0:
-  version "2.647.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.647.0.tgz#d1edc65f0018ef8252d142e620eef20fe699e1ef"
-  integrity sha512-yOORXYUpy2x7yantXF4rdobRPMsCUIc75Vmp9d1x397iWkQkEU9F7YEBR+QnoBoWs1DQZUV1DcSR5JJ4z43I2A==
+aws-sdk@2.648.0:
+  version "2.648.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.648.0.tgz#6cbea887b98c3ee8316870e9eead659194e35094"
+  integrity sha512-b+PdZmCFvZBisqXEH68jO4xB30LrDHQMWrEX6MJoZaOlxPJfpOqRFUH3zsiAXF5Q2jTdjYLtS5bs3vcIwRzi3Q==
   dependencies:
     buffer "4.9.1"
     events "1.1.1"
