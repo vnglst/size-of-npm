@@ -33,7 +33,7 @@
     "classnames": "2.2.6",
     "colors": "1.4.0",
     "commander": "5.0.0",
-    "core-js": "3.6.4",
+    "core-js": "3.6.5",
     "css-loader": "3.5.1",
     "debug": "4.1.1",
     "dotenv": "8.2.0",
@@ -49,7 +49,7 @@
     "gulp": "4.0.2",
     "gulp-util": "3.0.8",
     "handlebars": "4.7.6",
-    "html-webpack-plugin": "4.0.4",
+    "html-webpack-plugin": "4.2.0",
     "immutable": "4.0.0-rc.12",
     "inquirer": "7.1.0",
     "joi": "14.3.1",
@@ -101,7 +101,7 @@
     "ws": "7.2.3",
     "xml2js": "0.4.23",
     "yargs": "15.3.1",
-    "yeoman-generator": "4.7.2",
+    "yeoman-generator": "4.8.0",
     "yosay": "2.0.2",
     "zone.js": "0.10.3"
   }
