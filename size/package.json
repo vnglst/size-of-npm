@@ -17,7 +17,7 @@
     "@types/node": "13.13.4",
     "async": "3.2.0",
     "autoprefixer": "9.7.6",
-    "aws-sdk": "2.668.0",
+    "aws-sdk": "2.669.0",
     "axios": "0.19.2",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
@@ -60,7 +60,7 @@
     "minimist": "1.2.5",
     "mkdirp": "1.0.4",
     "mocha": "7.1.2",
-    "moment": "2.25.1",
+    "moment": "2.25.3",
     "mongodb": "3.5.7",
     "mongoose": "5.9.11",
     "morgan": "1.10.0",
@@ -101,7 +101,7 @@
     "ws": "7.2.5",
     "xml2js": "0.4.23",
     "yargs": "15.3.1",
-    "yeoman-generator": "4.9.0",
+    "yeoman-generator": "4.10.0",
     "yosay": "2.0.2",
     "zone.js": "0.10.3"
   }
