@@ -17,7 +17,7 @@
     "@types/node": "13.13.5",
     "async": "3.2.0",
     "autoprefixer": "9.7.6",
-    "aws-sdk": "2.673.0",
+    "aws-sdk": "2.674.0",
     "axios": "0.19.2",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
@@ -101,7 +101,7 @@
     "ws": "7.3.0",
     "xml2js": "0.4.23",
     "yargs": "15.3.1",
-    "yeoman-generator": "4.10.0",
+    "yeoman-generator": "4.10.1",
     "yosay": "2.0.2",
     "zone.js": "0.10.3"
   }
