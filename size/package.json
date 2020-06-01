@@ -17,7 +17,7 @@
     "@types/node": "14.0.6",
     "async": "3.2.0",
     "autoprefixer": "9.8.0",
-    "aws-sdk": "2.686.0",
+    "aws-sdk": "2.687.0",
     "axios": "0.19.2",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
