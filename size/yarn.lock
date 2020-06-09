@@ -2307,10 +2307,10 @@ autoprefixer@9.8.0:
     postcss "^7.0.30"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.692.0:
-  version "2.692.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.692.0.tgz#60120275de731a02ec08fc271354192c4d7d234f"
-  integrity sha512-fQRbZq+urzE4VjciEr6KNY7vbzougcVg7UqbHKGcgBT7EPtSbog9C2i9YY9Yum8PRuP1GAmfvC2Vthlw6dVTGw==
+aws-sdk@2.693.0:
+  version "2.693.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.693.0.tgz#46363d32fb2e23c6eeda049998ce8205a4ebf463"
+  integrity sha512-/0zy5IlE8wHrTXCxPYMSJGaqTKN1ulBBOSuWYeGxHU8pnTT6ZHpDdHlS83DHrVbsXnO/zq9prEf1nXRWlwgARw==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -3491,10 +3491,10 @@ chai@4.2.0:
     pathval "^1.1.0"
     type-detect "^4.0.5"
 
-chalk@4.0.0, chalk@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.0.0.tgz#6e98081ed2d17faab615eb52ac66ec1fe6209e72"
-  integrity sha512-N9oWFcegS0sFr9oh1oz2d7Npos6vNoWW9HvtCg5N1KRFpUhaAhvTv5Y58g880fZaEYSNm3qDz8SU1UrGvp+n7A==
+chalk@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
+  integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
@@ -3523,6 +3523,14 @@ chalk@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-3.0.0.tgz#3f73c2bf526591f574cc492c51e2456349f844e4"
   integrity sha512-4D3B6Wf41KOYRFdszmDqMCGq5VV/uMAB273JILmO+3jAlh8X4qDtdtgCR3fxtbLEMzSx22QdhnDcJvu2u1fVwg==
+  dependencies:
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
+
+chalk@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.0.0.tgz#6e98081ed2d17faab615eb52ac66ec1fe6209e72"
+  integrity sha512-N9oWFcegS0sFr9oh1oz2d7Npos6vNoWW9HvtCg5N1KRFpUhaAhvTv5Y58g880fZaEYSNm3qDz8SU1UrGvp+n7A==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
