@@ -87,7 +87,7 @@
     "socket.io": "2.3.0",
     "style-loader": "1.2.1",
     "styled-components": "5.1.1",
-    "superagent": "5.2.2",
+    "superagent": "5.3.1",
     "through2": "4.0.1",
     "tslib": "2.0.0",
     "typescript": "3.9.5",
