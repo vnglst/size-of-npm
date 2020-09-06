@@ -81,7 +81,7 @@
     "request": "2.88.2",
     "request-promise": "4.2.6",
     "rimraf": "3.0.2",
-    "rxjs": "6.6.2",
+    "rxjs": "6.6.3",
     "semver": "7.3.2",
     "shelljs": "0.8.4",
     "socket.io": "2.3.0",
