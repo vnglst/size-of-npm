@@ -91,10 +91,10 @@
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.12.0.tgz#443aea07a5aeba7942cb067de6b8272f2ab36b9e"
   integrity sha512-jAbCtMANC9ptXxbSVXIqV/3H0bkh7iyyv6JS5lu10av45bcc2QmDNJXkASZCFwbBt75Q0AEq/BB+bNa3x1QgYQ==
 
-"@babel/core@7.12.7":
-  version "7.12.7"
-  resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.12.7.tgz#bf55363c08c8352a37691f7216ec30090bf7e3bf"
-  integrity sha512-tRKx9B53kJe8NCGGIxEQb2Bkr0riUIEuN7Sc1fxhs5H8lKlCWUvQCSNMVIB0Meva7hcbCRJ76de15KoLltdoqw==
+"@babel/core@7.12.8":
+  version "7.12.8"
+  resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.12.8.tgz#8ad76c1a7d2a6a3beecc4395fa4f7b4cb88390e6"
+  integrity sha512-ra28JXL+5z73r1IC/t+FT1ApXU5LsulFDnTDntNfLQaScJUJmcHL5Qxm/IWanCToQk3bPWQo5bflbplU5r15pg==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/generator" "^7.12.5"
@@ -102,7 +102,7 @@
     "@babel/helpers" "^7.12.5"
     "@babel/parser" "^7.12.7"
     "@babel/template" "^7.12.7"
-    "@babel/traverse" "^7.12.7"
+    "@babel/traverse" "^7.12.8"
     "@babel/types" "^7.12.7"
     convert-source-map "^1.7.0"
     debug "^4.1.0"
@@ -1468,10 +1468,25 @@
     globals "^11.1.0"
     lodash "^4.17.19"
 
-"@babel/traverse@^7.12.5", "@babel/traverse@^7.12.7":
+"@babel/traverse@^7.12.5":
   version "7.12.7"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.12.7.tgz#572a722408681cef17d6b0bef69ef2e728ca69f1"
   integrity sha512-nMWaqsQEeSvMNypswUDzjqQ+0rR6pqCtoQpsqGJC4/Khm9cISwPTSpai57F6/jDaOoEGz8yE/WxcO3PV6tKSmQ==
+  dependencies:
+    "@babel/code-frame" "^7.10.4"
+    "@babel/generator" "^7.12.5"
+    "@babel/helper-function-name" "^7.10.4"
+    "@babel/helper-split-export-declaration" "^7.11.0"
+    "@babel/parser" "^7.12.7"
+    "@babel/types" "^7.12.7"
+    debug "^4.1.0"
+    globals "^11.1.0"
+    lodash "^4.17.19"
+
+"@babel/traverse@^7.12.8":
+  version "7.12.8"
+  resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.12.8.tgz#c1c2983bf9ba0f4f0eaa11dff7e77fa63307b2a4"
+  integrity sha512-EIRQXPTwFEGRZyu6gXbjfpNORN1oZvwuzJbxcXjAgWV0iqXYDszN1Hx3FVm6YgZfu1ZQbCVAk3l+nIw95Xll9Q==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/generator" "^7.12.5"
@@ -2587,10 +2602,10 @@ autoprefixer@10.0.2:
     num2fraction "^1.2.2"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.798.0:
-  version "2.798.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.798.0.tgz#fd108e0569d7210816003fc8cc0c995b39854ad6"
-  integrity sha512-7BMCH90yFpMmCF5uxZiiKMMzIAFibZz8b6CLGw/92FgMd86ZedpNqDyaikcGv1yOVtOlNCCnXN6OglC8/vwm4Q==
+aws-sdk@2.799.0:
+  version "2.799.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.799.0.tgz#8b1a64c1a9f8ccf5794eb07bdd8051e4cb6adcfd"
+  integrity sha512-NYAoiNU+bJXhlJsC0rFqrmD5t5ho7/VxldmziP6HLPYHfOCI9Uvk6UVjfPmhLWPm0mHnIxhsHqmsNGyjhHNYmw==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -11385,10 +11400,10 @@ underscore.string@~3.3.4:
     sprintf-js "^1.0.3"
     util-deprecate "^1.0.2"
 
-underscore@1.11.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.11.0.tgz#dd7c23a195db34267186044649870ff1bab5929e"
-  integrity sha512-xY96SsN3NA461qIRKZ/+qox37YXPtSBswMGfiNptr+wrt6ds4HaMw23TP612fEyGekRE6LNRiLYr/aqbHXNedw==
+underscore@1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.12.0.tgz#4814940551fc80587cef7840d1ebb0f16453be97"
+  integrity sha512-21rQzss/XPMjolTiIezSu3JAjgagXKROtNrYFEOWK109qY1Uv2tVjPTZ1ci2HgvQDA16gHYSthQIJfB+XId/rQ==
 
 undertaker-registry@^1.0.0:
   version "1.0.1"
