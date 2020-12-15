@@ -1883,10 +1883,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.2.tgz#a5ccec6abb6060d5f20d256fb03ed743e9774999"
   integrity sha512-gojym4tX0FWeV2gsW4Xmzo5wxGjXGm550oVUII7f7G5o4BV6c7DBdiG1RRQd+y1bvqRyYtPfMK85UM95vsapqQ==
 
-"@types/node@14.14.13":
-  version "14.14.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.13.tgz#9e425079799322113ae8477297ae6ef51b8e0cdf"
-  integrity sha512-vbxr0VZ8exFMMAjCW8rJwaya0dMCDyYW2ZRdTyjtrCvJoENMpdUHOT/eTzvgyA5ZnqRZ/sI0NwqAxNHKYokLJQ==
+"@types/node@14.14.14":
+  version "14.14.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.14.tgz#f7fd5f3cc8521301119f63910f0fb965c7d761ae"
+  integrity sha512-UHnOPWVWV1z+VV8k6L1HhG7UbGBgIdghqF3l9Ny9ApPghbjICXkUJSd/b9gOgQfjM1r+37cipdw/HJ3F6ICEnQ==
 
 "@types/node@^14.14.7":
   version "14.14.8"
@@ -2644,10 +2644,10 @@ autoprefixer@10.1.0:
     normalize-range "^0.1.2"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.810.0:
-  version "2.810.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.810.0.tgz#67b11eb7ac6bb967c5fbbdba523872d45cfa52db"
-  integrity sha512-+Sj+Ec00t675/0Kjisk4GIZGs7olsbu4//b5WrwPriYTV/xqJnXCPMpj3EZEV1z5Vx3PZD6dA6PTU4VZPPVcBw==
+aws-sdk@2.811.0:
+  version "2.811.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.811.0.tgz#a7e4040b2ee7d8b825b142ed5179d36dc3f315c4"
+  integrity sha512-Tbz31UUYj9MEDWKDEmK1Ppc6iFbZhaHjAkjA4CqEQQ6YE8309H+PhOXbcdzjMC1lDek32eItLvMGulPuhj2MyQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -8201,10 +8201,10 @@ mongoose-legacy-pluralize@1.0.2:
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
   integrity sha512-Yo/7qQU4/EyIS8YDFSeenIvXxZN+ld7YdV9LqFVQJzTLye8unujAWPZ4NWKfFA+RNjh+wvTWKY9Z3E5XM6ZZiQ==
 
-mongoose@5.11.7:
-  version "5.11.7"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.11.7.tgz#b66d8870c06822c05b5a71e44bdd67b9cf83ed50"
-  integrity sha512-9FQ3BNPMU7GVHw1jVrxPXQpVJWuMESEO5bf4SWgI4S6+OT1Kk6fdLGWibUh2UAVSolfizljOZQQ6Z+cTLyoFOw==
+mongoose@5.11.8:
+  version "5.11.8"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.11.8.tgz#71900d5638a298a8ed37709b3fda8c94e46f29df"
+  integrity sha512-RRfrYLg7pyuyx7xu5hwadjIZZJB9W2jqIMkL1CkTmk/uOCX3MX2tl4BVIi2rJUtgMNwn6dy3wBD3soB8I9Nlog==
   dependencies:
     "@types/mongodb" "^3.5.27"
     bson "^1.1.4"
@@ -11931,10 +11931,10 @@ webpack-sources@^2.1.1:
     source-list-map "^2.0.1"
     source-map "^0.6.1"
 
-webpack@5.10.1:
-  version "5.10.1"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.10.1.tgz#81d1853d34bef5d6e5bfa119b98a43764b26c100"
-  integrity sha512-mHu4iM2mW7d/8R91VPPNtUCNd1D8k51TTb4e0XjylapIR6WEmW8XUTBZq8TqmShj9XYxVXJn6AzKlWnrlty6DA==
+webpack@5.10.2:
+  version "5.10.2"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.10.2.tgz#990ad134b8a6406b5e40e63da1870e0de40215dc"
+  integrity sha512-KpYTJerfb2KGxcOJNA1SMWXAf8/dxCDaQOhPIrfoV5rYceqet7OY/h3941/kuapx0noMcpTiVoNN3EHXsTYlsg==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.45"
