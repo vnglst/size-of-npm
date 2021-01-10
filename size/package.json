@@ -95,7 +95,7 @@
     "url-loader": "4.1.1",
     "uuid": "8.3.2",
     "vue": "2.6.12",
-    "webpack": "5.12.2",
+    "webpack": "5.12.3",
     "webpack-dev-server": "3.11.1",
     "winston": "3.3.3",
     "ws": "7.4.2",
