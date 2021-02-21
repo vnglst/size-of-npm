@@ -101,7 +101,7 @@
     "ws": "7.4.3",
     "xml2js": "0.4.23",
     "yargs": "16.2.0",
-    "yeoman-generator": "4.13.0",
+    "yeoman-generator": "5.0.0",
     "yosay": "2.0.2",
     "zone.js": "0.11.4"
   }
