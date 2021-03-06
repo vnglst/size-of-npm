@@ -59,7 +59,7 @@
     "lodash": "4.17.21",
     "minimist": "1.2.5",
     "mkdirp": "1.0.4",
-    "mocha": "8.3.0",
+    "mocha": "8.3.1",
     "moment": "2.29.1",
     "mongodb": "3.6.4",
     "mongoose": "5.11.19",
@@ -101,7 +101,7 @@
     "ws": "7.4.3",
     "xml2js": "0.4.23",
     "yargs": "16.2.0",
-    "yeoman-generator": "5.0.1",
+    "yeoman-generator": "5.1.0",
     "yosay": "2.0.2",
     "zone.js": "0.11.4"
   }
