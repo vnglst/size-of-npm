@@ -39,7 +39,7 @@
     "dotenv": "8.2.0",
     "ejs": "3.1.6",
     "ember-cli-babel": "7.23.1",
-    "eslint": "7.21.0",
+    "eslint": "7.22.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-react": "7.22.0",
     "express": "4.17.1",
@@ -101,7 +101,7 @@
     "ws": "7.4.4",
     "xml2js": "0.4.23",
     "yargs": "16.2.0",
-    "yeoman-generator": "5.1.0",
+    "yeoman-generator": "5.2.0",
     "yosay": "2.0.2",
     "zone.js": "0.11.4"
   }
