@@ -2782,10 +2782,10 @@ autoprefixer@10.2.5:
     normalize-range "^0.1.2"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.872.0:
-  version "2.872.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.872.0.tgz#7e5f2a9ae3e9efa0000a83788092c43357877290"
-  integrity sha512-hI1/iwR1uPbuulvWZmCCmLKN1Oiv+Beutwcn+7ZOsWAEtsgsXiHmuRDS/ZdWiBRNQkfZgUhcCwLz7nOrWKpb8w==
+aws-sdk@2.874.0:
+  version "2.874.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.874.0.tgz#2f1f1ff232e473ddf2a398b276c44f24e5828e2c"
+  integrity sha512-YF2LYIfIuywFTzojGwwUwAiq+pgSM3IWRF/uDoJa28xRQSfYD1uMeZLCqqMt+L0/yxe2UJDYKTVPhB9eEqOxEQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -4967,10 +4967,10 @@ ember-cli-babel-plugin-helpers@^1.1.1:
   resolved "https://registry.yarnpkg.com/ember-cli-babel-plugin-helpers/-/ember-cli-babel-plugin-helpers-1.1.1.tgz#5016b80cdef37036c4282eef2d863e1d73576879"
   integrity sha512-sKvOiPNHr5F/60NLd7SFzMpYPte/nnGkq/tMIfXejfKHIhaiIkYFqX8Z9UFTKWLLn+V7NOaby6niNPZUdvKCRw==
 
-ember-cli-babel@7.26.2:
-  version "7.26.2"
-  resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-7.26.2.tgz#497985e741ffcc08f89f98c9464509e91cdb2809"
-  integrity sha512-bSSlFbUBfLwaabGpLgoLkOKMIdDRWu3cPBNrN2UQXfzlPei3nZblDatSzPbCZ7O5faJHRi13ra3Q4odnCoBtTg==
+ember-cli-babel@7.26.3:
+  version "7.26.3"
+  resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-7.26.3.tgz#e93ce7ec458208894d10844cf76e41cc06fdbeb6"
+  integrity sha512-ZCs0g99d3kYaHs1+HT33oMY7/K+nLCAAv7dCLxsMzg7cQf55O6Pq4ZKnWEr3IHVs33xbJFnEb9prt1up36QVnw==
   dependencies:
     "@babel/core" "^7.12.0"
     "@babel/helper-compilation-targets" "^7.12.0"
