@@ -34,7 +34,7 @@
     "colors": "1.4.0",
     "commander": "7.2.0",
     "core-js": "3.10.1",
-    "css-loader": "5.2.1",
+    "css-loader": "5.2.2",
     "debug": "4.3.1",
     "dotenv": "8.2.0",
     "ejs": "3.1.6",
