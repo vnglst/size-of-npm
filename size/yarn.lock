@@ -2914,10 +2914,10 @@ autoprefixer@10.2.5:
     normalize-range "^0.1.2"
     postcss-value-parser "^4.1.0"
 
-aws-sdk@2.895.0:
-  version "2.895.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.895.0.tgz#71b8ded8f972ca869b1310eebd2924695b009ec3"
-  integrity sha512-f8lkEcItfGaYPhJkdbymLth8K0aZ6aMiuoSr/0r2GaFFLq9neg2WUL0dgqSmVUGf55ZMDbwjcBurhJPrcBbDbw==
+aws-sdk@2.896.0:
+  version "2.896.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.896.0.tgz#5328ef20000bd7d02ea03f3b7f96dba175946142"
+  integrity sha512-tX2HmKLAdVY6/DuZTniQWwSC/5Kqpu1lpWf4iCkz3wR8RdDDUMoebIBKLjrTS/IDGQ2KFnzA8mZDn93bWgt1gQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -8411,10 +8411,10 @@ mongoose-legacy-pluralize@1.0.2:
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
   integrity sha512-Yo/7qQU4/EyIS8YDFSeenIvXxZN+ld7YdV9LqFVQJzTLye8unujAWPZ4NWKfFA+RNjh+wvTWKY9Z3E5XM6ZZiQ==
 
-mongoose@5.12.6:
-  version "5.12.6"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.12.6.tgz#bbbea1bff149f2ee72cf0efc844a31a92f0546a6"
-  integrity sha512-lNkToNqcfDyHNArPjd/aODTJp/cDhFEZE9Xtj0yBz+Z2t1h6RRDxzxIV0NW12SAnjIh50U1yW6c3rLPqn17lSw==
+mongoose@5.12.7:
+  version "5.12.7"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.12.7.tgz#9cbf42246c53b7ab79342c04ef72938d4047b071"
+  integrity sha512-BniNwACn7uflK2h+M3juvyLH5nn9JDFgnB5KE2EwWFwSrRyhSpPnCtanRKJW3OtMCJyPccMIjtGZxHNW7JfnIw==
   dependencies:
     "@types/mongodb" "^3.5.27"
     bson "^1.1.4"
@@ -10383,12 +10383,12 @@ run-async@^2.4.0:
   dependencies:
     is-promise "^2.1.0"
 
-rxjs@6.6.7:
-  version "6.6.7"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.7.tgz#90ac018acabf491bf65044235d5863c4dab804c9"
-  integrity sha512-hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==
+rxjs@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.0.0.tgz#c55d67c52aee8804d32ab60965e335bd41e2dc2d"
+  integrity sha512-I1V/ArAtGJg4kmCfms8fULm0SwYgEsAf2d5WPCBGzTYm2qTjO3Tx4EDFaGjbOox8CeEsC69jQK22mnmfyA26sw==
   dependencies:
-    tslib "^1.9.0"
+    tslib "~2.1.0"
 
 rxjs@^6.6.6:
   version "6.6.6"
@@ -11595,6 +11595,11 @@ tslib@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.0.tgz#18d13fc2dce04051e20f074cc8387fd8089ce4f3"
   integrity sha512-lTqkx847PI7xEDYJntxZH89L2/aXInsyF2luSafe/+0fHOMjlBNXdH6th7f70qxLDhul7KZK0zC8V5ZIyHl0/g==
+
+tslib@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
+  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
 tunnel-agent@^0.6.0:
   version "0.6.0"
